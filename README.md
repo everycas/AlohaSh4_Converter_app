@@ -2,9 +2,8 @@ Lang: Python 3.9 Project name:
 
 # NCR Aloha POS to UCS Storehouse v4 Data Converter Utility.
 
-Aloha POS - https://www.ncr.com/restaurants/aloha-restaurant-pos-system
-
-Storehouse 4 - https://rkeeper.com/products/r_keeper/storehouse-5-skladskoy-uchet/
+- Aloha POS - https://www.ncr.com/restaurants/aloha-restaurant-pos-system
+- Storehouse 4 - https://rkeeper.com/products/r_keeper/storehouse-5-skladskoy-uchet/
 
 Goal: Get and convert 'Aloha POS' (NCR) cash system data files:
 - dictionary dbf-tables: CAT.DBF, CIT.DBF, CMP.DBF, ITM.DBF, TDR.DBF, RSN.DBF;
