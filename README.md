@@ -23,3 +23,5 @@ Project structure:
 8. \SHImp - SHImport utility (import converted result dbf-tables to SH4 Base)
 9. \AlohaTS\DATA - AlohaPOS Database (Dicts) sample
 10. \AlohaTS\YYYYMMDD - AlohaPOS Database (Shifts) samples
+
+P.S. Erlier rus version sample - https://www.youtube.com/watch?v=sJgA79ygrOg
