@@ -10,17 +10,17 @@ Info:
 
 Goal:
 
-- Get 'Aloha POS' (NCR) cash system data files:
+Get 'Aloha POS' (NCR) cash system data files:
 
 1. Dictionary dbf-tables: CAT.DBF, CIT.DBF, CMP.DBF, ITM.DBF, TDR.DBF, RSN.DBF;
 2. Shits dbf-tables: GNDITEM.DBF, GNDTNDR.DBF, GNDVOID.DBF;
 
-- Convert to 'Storehouse v4' data files: 
+Convert to 'Storehouse v4' data files: 
 
 1. Dictionary dbf-tables: Categ.dbf, Expcateg.dbf, Goods.dbf, Gtree.dbf, sunits.dbf;
 2. Shits dbf-table: Exp.dbf;
 
-- Run 'ImportRK' app for replicate data from converted dbf-files to sh4 database.
+Run 'ImportRK' app for replicate data from converted dbf-files to sh4 database.
 
 Project structure:
 
