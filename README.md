@@ -1,4 +1,4 @@
-Lang: Python 3.9 Project name: 
+Lang: Python 3.9 / Win 10
 
 # NCR Aloha POS to UCS Storehouse v4 Data Converter Utility.
 
